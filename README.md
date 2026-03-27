@@ -8,6 +8,6 @@ curl -sSL https://raw.githubusercontent.com/The-DiosBot-MD/i/main/run.sh | bash
 O si prefieres descargarlo primero:
 
 bash
-curl -O https://raw.githubusercontent.com/The-DiosBot-MD/i/main/menu.sh
-chmod +x menu.sh
-./menu.sh
+curl -O https://raw.githubusercontent.com/The-DiosBot-MD/i/main/run.sh
+chmod +x run.sh
+./run.sh
